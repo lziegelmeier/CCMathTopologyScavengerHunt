@@ -1,5 +1,5 @@
 # CCMathTopologyScavengerHunt
-This github repo contains point clouds used in a Topology Scavenger Hunt at Macalester College.
+This github repo contains point clouds used in a Topology Scavenger Hunt at Macalester College described in the volume Cross-Curricular Applications for Pure Mathematics Courses.
 
 There are 14 different points clouds of various dimensions and topological structures.  
 
